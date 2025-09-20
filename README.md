@@ -6,7 +6,7 @@
 ## 🌟 About Me
 - 🔭 Currently studying **Information Technology**  
 - 🌱 Continuously learning **web development, databases, and programming fundamentals**  
-- 🤝 Open to collaborating on **IT and software-related projects**  
+- 🤝 Open to collaborating on **IT and software-related projects**
 - 🎯 Aspiring to become a skilled **IT professional and software developer**  
 
 
@@ -28,6 +28,7 @@
 
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
+
 ## MY GITHUB STATS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobgamingph&show_icons=true&theme=radical)
@@ -35,3 +36,9 @@
 ## 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noobgamingph&theme=radical)](https://git.io/streak-stats)
+
+## 📬 Contact Me
+- 📧 Email: deizlepacsapermejo@gmail.com 
+- 🔗 GitHub: https://github.com/deizlepacsapermejo  
+
+✨ _“Keep learning, keep building, and keep growing!”_ ✨️
