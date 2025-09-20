@@ -1,5 +1,8 @@
 ## HI ITS' ME DEIZLE👋
-🎓 I’m a **BSIT (Bachelor of Science in Information Technology) student** As a fourth-year college student in Information Technology (IT), I've learned so much about the ever-evolving world of technology. Throughout my journey, I've gained knowledge in programming, networking, databases, and more. My IT education has equipped me with the tools to succeed in this dynamic field. I'm confident that my skills and knowledge will enable me to make a positive impact in the tech industry. 
+🎓 I’m a **BSIT (Bachelor of Science in Information Technology) student** As a fourth-year college student in Information Technology (IT), I've learned so much about the ever-evolving world of technology.
+Throughout my journey, I've gained knowledge in programming, networking, databases, and more.
+My IT education has equipped me with the tools to succeed in this dynamic field.
+I'm confident that my skills and knowledge will enable me to make a positive impact in the tech industry. 
 💻  Currently learning and exploring coding, technology, and project development  
 ---
 
