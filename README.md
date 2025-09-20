@@ -38,7 +38,7 @@ I'm confident that my skills and knowledge will enable me to make a positive imp
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noobgamingph&theme=radical)](https://git.io/streak-stats)
 
 ## 📬 Contact Me
-- 📧 Instagram: missy.zle
+- 📧 Instagram: @missy.zle
 - 📧 Email: deizlepacsapermejo@gmail.com 
 - 🔗 GitHub: https://github.com/deizlepacsapermejo  
 
